@@ -1,9 +1,7 @@
-! Apr 14, 2025 https://donjon.bin.sh
 donjon.bin.sh##.subtitle
 donjon.bin.sh##.layout_header > h1
 donjon.bin.sh##.kofi-button
 ||donjon.bin.sh/motif/widgets/patreon.png$image
 donjon.bin.sh##.widgets
-
-! Apr 18, 2025 https://tcrf.net
+donjon.bin.sh##.layout_footer
 tcrf.net##.msgbox
